@@ -1,0 +1,164 @@
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem\CafeManagementSystem\bin\Debug\CafeManagementSystem.exe.config
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem\CafeManagementSystem\bin\Debug\CafeManagementSystem.exe
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem\CafeManagementSystem\bin\Debug\CafeManagementSystem.pdb
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csprojAssemblyReference.cache
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.Properties.Resources.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.GenerateResource.cache
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.CoreCompileInputs.cache
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.exe
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.pdb
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem\CafeManagementSystem\bin\Debug\Guna.UI2.dll
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.CopyComplete
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.frmLogin.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem\CafeManagementSystem\bin\Debug\CircularProgressBar.dll
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem\CafeManagementSystem\bin\Debug\WinFormAnimation.dll
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem\CafeManagementSystem\bin\Debug\CircularProgressBar.xml
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem\CafeManagementSystem\bin\Debug\WinFormAnimation.xml
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.frmLoading.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.AddItems.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.PlaceOrder.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.ucPlaceOrder.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.UcCaregory.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.UcStaffReg.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.UcManageItem.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.UcReport.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.frmDashBoard.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.frmGuestLogin.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\bin\Debug\CafeManagementSystem.exe.config
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\bin\Debug\CafeManagementSystem.exe
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\bin\Debug\CafeManagementSystem.pdb
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\bin\Debug\CircularProgressBar.dll
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\bin\Debug\Guna.UI2.dll
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\bin\Debug\WinFormAnimation.dll
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\bin\Debug\CircularProgressBar.xml
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\bin\Debug\WinFormAnimation.xml
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csprojAssemblyReference.cache
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.frmDashBoard.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.frmLogin.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.frmGuestLogin.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.frmLoading.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.Properties.Resources.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.UcCaregory.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.UcStaffReg.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.UcManageItem.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.UcPlaceOrder.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.UcReport.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.GenerateResource.cache
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.CoreCompileInputs.cache
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.CopyComplete
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.exe
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.pdb
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.UcCashierReg.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.UcStaffAdminAndGuest.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_06\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\bin\Debug\CafeManagementSystem.exe.config
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_06\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\bin\Debug\CafeManagementSystem.exe
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_06\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\bin\Debug\CafeManagementSystem.pdb
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_06\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\bin\Debug\CircularProgressBar.dll
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_06\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\bin\Debug\Guna.UI2.dll
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_06\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\bin\Debug\WinFormAnimation.dll
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_06\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\bin\Debug\CircularProgressBar.xml
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_06\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\bin\Debug\WinFormAnimation.xml
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_06\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csprojAssemblyReference.cache
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_06\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.frmDashBoard.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_06\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.frmLogin.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_06\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.frmGuestLogin.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_06\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.frmLoading.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_06\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.Properties.Resources.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_06\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.UcCashierReg.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_06\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.UcStaffAdminAndGuest.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_06\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.UcCaregory.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_06\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.UcStaffReg.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_06\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.UcManageItem.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_06\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.UcPlaceOrder.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_06\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.UcReport.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_06\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.GenerateResource.cache
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_06\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.CoreCompileInputs.cache
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_06\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.CopyComplete
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_06\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.exe
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_06\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.pdb
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_07\CafeManagementSystem V_06\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\bin\Debug\CafeManagementSystem.exe.config
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_07\CafeManagementSystem V_06\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\bin\Debug\CafeManagementSystem.exe
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_07\CafeManagementSystem V_06\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\bin\Debug\CafeManagementSystem.pdb
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_07\CafeManagementSystem V_06\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\bin\Debug\CircularProgressBar.dll
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_07\CafeManagementSystem V_06\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\bin\Debug\Guna.UI2.dll
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_07\CafeManagementSystem V_06\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\bin\Debug\WinFormAnimation.dll
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_07\CafeManagementSystem V_06\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\bin\Debug\CircularProgressBar.xml
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_07\CafeManagementSystem V_06\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\bin\Debug\WinFormAnimation.xml
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_07\CafeManagementSystem V_06\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csprojAssemblyReference.cache
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_07\CafeManagementSystem V_06\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.frmDashBoard.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_07\CafeManagementSystem V_06\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.frmLogin.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_07\CafeManagementSystem V_06\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.frmGuestLogin.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_07\CafeManagementSystem V_06\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.frmLoading.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_07\CafeManagementSystem V_06\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.Properties.Resources.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_07\CafeManagementSystem V_06\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.UcCashierReg.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_07\CafeManagementSystem V_06\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.UcStaffAdminAndGuest.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_07\CafeManagementSystem V_06\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.UcCaregory.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_07\CafeManagementSystem V_06\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.UcStaffReg.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_07\CafeManagementSystem V_06\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.UcManageItem.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_07\CafeManagementSystem V_06\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.UcPlaceOrder.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_07\CafeManagementSystem V_06\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.UcReport.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_07\CafeManagementSystem V_06\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.GenerateResource.cache
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_07\CafeManagementSystem V_06\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.CoreCompileInputs.cache
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_07\CafeManagementSystem V_06\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.CopyComplete
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_07\CafeManagementSystem V_06\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.exe
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_07\CafeManagementSystem V_06\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.pdb
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\bin\Debug\CafeManagementSystem.exe.config
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\bin\Debug\CafeManagementSystem.exe
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\bin\Debug\CafeManagementSystem.pdb
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\bin\Debug\CircularProgressBar.dll
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\bin\Debug\Guna.UI2.dll
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\bin\Debug\WinFormAnimation.dll
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\bin\Debug\CircularProgressBar.xml
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\bin\Debug\WinFormAnimation.xml
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csprojAssemblyReference.cache
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.frmDashBoard.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.frmLogin.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.frmGuestLogin.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.frmLoading.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.Properties.Resources.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.UcCashierReg.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.UcStaffAdminAndGuest.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.UcCaregory.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.UcStaffReg.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.UcManageItem.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.UcPlaceOrder.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.UcReport.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.GenerateResource.cache
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.CoreCompileInputs.cache
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.CopyComplete
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.exe
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.pdb
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\bin\Debug\Bunifu.Licensing.dll
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.exe.licenses
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_09.5\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\bin\Debug\CafeManagementSystem.exe.config
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_09.5\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\bin\Debug\CafeManagementSystem.exe
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_09.5\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\bin\Debug\CafeManagementSystem.pdb
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_09.5\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_09.5\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_09.5\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\bin\Debug\CircularProgressBar.dll
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_09.5\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\bin\Debug\Guna.UI2.dll
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_09.5\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\bin\Debug\WinFormAnimation.dll
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_09.5\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\bin\Debug\Bunifu.Licensing.dll
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_09.5\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\bin\Debug\CircularProgressBar.xml
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_09.5\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\bin\Debug\WinFormAnimation.xml
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_09.5\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csprojAssemblyReference.cache
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_09.5\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.frmDashBoard.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_09.5\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.frmLogin.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_09.5\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.frmGuestLogin.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_09.5\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.frmLoading.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_09.5\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.Properties.Resources.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_09.5\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.UcCashierReg.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_09.5\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.UcStaffAdminAndGuest.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_09.5\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.UcCaregory.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_09.5\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.UcStaffReg.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_09.5\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.UcManageItem.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_09.5\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.UcPlaceOrder.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_09.5\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.UcReport.resources
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_09.5\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.GenerateResource.cache
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_09.5\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.exe.licenses
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_09.5\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.CoreCompileInputs.cache
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_09.5\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.CopyComplete
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_09.5\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.exe
+E:\UOM\Semester 2\Project\Project\CafeManagementSystem V_09.5\CafeManagementSystem V_08.1\CafeManagementSystem V_01\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.pdb
